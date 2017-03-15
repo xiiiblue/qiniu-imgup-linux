@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../qiniu-imgup/.idea/qimg.iml" filepath="$PROJECT_DIR$/../qiniu-imgup/.idea/qimg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qiniu-imgup-linux.iml" filepath="$PROJECT_DIR$/.idea/qiniu-imgup-linux.iml" />
+    </modules>
+  </component>
+</project>

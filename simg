@@ -1,0 +1,1 @@
+sh -c 'rm /tmp/snap_shutter* ; sleep 0.1s ; shutter -s'
