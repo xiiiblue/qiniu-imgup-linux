@@ -1,4 +1,4 @@
-python3 ./uimg.py |xclip -selection clipboard
+python3 /opt/qimg/uimg.py |xclip -selection clipboard
 sleep 0.5s
 xdotool keydown Control key v keyup Control
 
