@@ -25,10 +25,10 @@ def upload_img(fn, sfx='.jpg'):
 def run():
     upRes = upload_img('/tmp/snap_shutter.jpg')
     if upRes:
-        os.system('上传成功 -t 3000')
+        os.system('notify-send 上传成功 -t 3000')
         print('![](' + upRes + ')')
     else:
-        os.system('上传失败 -t 3000')
+        os.system('notify-send 上传失败 -t 3000')
         print('UPLOAD FAILED')
 
 

@@ -37,5 +37,5 @@ sudo apt-get install libnotify-bin
 ## 应用配置
 1. 将程序目录拷贝至/opt/qimg下
 2. 设置环境变量 `export PATH=/opt/qimg:$PATH`
-3. 在Shutter设置中，将图片自动保存位置设为`/tmp/snap_shutter`
+3. 在Shutter设置中，将图片自动保存位置设为`/tmp`, 文件格式设置为`jpg`, 文件名设置为`snap_shutter`
 4. 在System Setting - Keyboard中，设置快捷键分别指向`simg`截图和`uimg`上传
